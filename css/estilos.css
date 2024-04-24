@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@300&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+header {
+    text-align: center;
+}
+h1 {
+
+text-align: center;
+color: rgb(130, 180, 65);
+font-weight: 900;
+font-family: "Montserrat", sans-serif;
+font-size: 30px;
+
+}
+
+h2 {
+
+font-weight: 700;
+font-family: "Montserrat", sans-serif;
+font-size: 15px;
+text-decoration: rgb(130, 180, 65)wavy underline;
+
+}
+
+h4 {
+text-align: center; 
+font-weight: 500;
+font-family: "Montserrat", sans-serif;
+font-size: 14px;
+}
+
+body {
+background-color: rgb(255, 255, 243);
+font-family: "Lexend", sans-serif;
+font-size: 14px;
+}
+
+img {
+
+width: 45%;
+margin: auto;
+display: block;
+border-radius: 15%;
+}
+
+
+a:link{
+    color: rgba(32, 139, 197, 0.859);
+}
+a:visited, #vinculo:visited {
+    color: blue;
+}
+a:hover {
+color: rgb(98, 98, 98);
+}
